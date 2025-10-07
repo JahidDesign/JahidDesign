@@ -1,11 +1,10 @@
 <!-- 🖼️ Profile Banner -->
-<div style="width: 100%; height: 100vh; overflow: hidden;">
+<p align="center">
   <img 
-    src="https://i.ibb.co/35SZz0hF/jahid-20251008-012859-0000.png" 
+    src="https://i.ibb.co.com/C5hQC3VV/jahid.png" 
     alt="Jahid Hasan Banner" 
-    style="width: 100%; height: 100%; object-fit: cover;"
-  >
-</div>
+    width="100%" />
+</p>
 
 
 ---
