@@ -1,4 +1,7 @@
-(https://i.ibb.co.com/rfT2G6D2/Beige-and-Black-Simple-and-Modern-Photocentric-Facebook-Cover.png)
+### Hi there 👋, Hey I'm Jahid Hasan Smith
+#### Full-Stack Web Dev | Digital Marketer | Creative Graphics Specialist | Turning Ideas into Reality!
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JahidDesign)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]
 
 
 Skills: 💻 MERN Stack Developer & 🎯 Digital Marketer | Building & Promoting Modern Web Solutions
@@ -6,9 +9,6 @@ Skills: 💻 MERN Stack Developer & 🎯 Digital Marketer | Building & Promoting
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: jahidhasan.en@gmail.com 
 - 😄 Pronouns: He/Him 
-### Hi there 👋, Hey I'm Jahid Hasan Smith
-#### Full-Stack Web Dev | Digital Marketer | Creative Graphics Specialist | Turning Ideas into Reality!
-![Full-Stack Web Dev | Digital Marketer | Creative Graphics Specialist | Turning Ideas into Reality!]
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JahidDesign)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jahid-digital-space.vercel.app/)  
 
