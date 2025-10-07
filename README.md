@@ -1,6 +1,6 @@
 <!-- 🖼️ Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/rfT2G6D2/Beige-and-Black-Simple-and-Modern-Photocentric-Facebook-Cover.png" alt="Jahid Hasan Banner" width="100%">
+  <img src="https://i.ibb.co.com/35SZz0hF/jahid-20251008-012859-0000.png" alt="Jahid Hasan Banner" width="100%">
 </p>
 
 ---
