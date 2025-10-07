@@ -1,3 +1,27 @@
+### Hi there 👋, Hey I'm Jahid Hasan Smith
+#### Full-Stack Web Dev | Digital Marketer | Creative Graphics Specialist | Turning Ideas into Reality!
+![Full-Stack Web Dev | Digital Marketer | Creative Graphics Specialist | Turning Ideas into Reality!](https://i.ibb.co.com/rfT2G6D2/Beige-and-Black-Simple-and-Modern-Photocentric-Facebook-Cover.png)
+
+
+Skills: 💻 MERN Stack Developer & 🎯 Digital Marketer | Building & Promoting Modern Web Solutions
+
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: jahidhasan.en@gmail.com 
+- 😄 Pronouns: He/Him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JahidDesign)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jahid-digital-space.vercel.app/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahidDesign)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/JahidDesign)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=JahidDesign)  
+
+
+
 # 💫 About Me:
 I am a person with a disability — and this is not something to be ashamed of. It’s a reality of my life, determined by Allah Himself. Allah knows best why He has placed me in this trial, and only He knows what my destiny holds.<br><br>After Allah, the greatest contribution in my life belongs to my beloved mother. Without her, I could never have come this far. Whatever I have achieved, and however much I have struggled, behind it all are her sacrifices, her prayers, and her unconditional love.<br><br>I am forever grateful to Allah for blessing me with such a mother. No matter how many challenges come my way, I will continue to move forward with my mother’s prayers and Allah’s mercy. Every achievement of mine carries her contribution within it.<br><br>In shaa Allah, I will reach my goals if Allah grants me life, health, and strength. 🤲❤️<br><br>– MERN Stack Developer & Digital Marketer
 
