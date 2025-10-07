@@ -1,9 +1,6 @@
 <!-- 🖼️ Profile Banner -->
 <p align="center">
-  <img 
-    src="https://i.ibb.co.com/C5hQC3VV/jahid.png" 
-    alt="Jahid Hasan Banner" 
-    width="100%" />
+ <img src="https://i.ibb.co.com/C5hQC3VV/jahid.png" alt="jahid" border="0"style="width:100%; height:auto;">
 </p>
 
 
