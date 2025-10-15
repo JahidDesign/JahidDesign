@@ -133,101 +133,47 @@ By combining creativity with technical expertise, I deliver **impactful digital 
 
 # 🚀 Featured Projects
 
-<div align="center">
+### 🛒 [NittoSodai – Smart Grocery E-commerce](https://nittosodai.netlify.app/)  
+**Tech:** React, Firebase Auth, MongoDB, TailwindCSS, SweetAlert2  
+A bilingual (English & Bangla) e-commerce platform for smart grocery shopping — featuring Firebase authentication, image upload, Google login, and a modern responsive UI.
 
-### 🛒 [NittoSodai – Smart Grocery E-commerce](https://nittosodai.netlify.app/)
-![NittoSodai Screenshot](https://i.ibb.co/q5t7yFZ/nittosodai-screenshot.png)
-**Tech:** 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6F61?style=for-the-badge)  
-**Description:** A bilingual e-commerce platform for groceries, featuring Firebase authentication, image uploads, Google login, and a modern responsive UI.
+### 💼 [My Personal Portfolio](https://jahid-digital-space.vercel.app/)  
+**Tech:** React, Framer Motion, TailwindCSS, React Router  
+A modern portfolio showcasing web development, digital marketing, and design expertise — fully responsive with smooth animations and dynamic routing.
 
----
-
-### 💼 [My Personal Portfolio](https://jahid-digital-space.vercel.app/)
-![Portfolio Screenshot](https://i.ibb.co/tHp7ZLx/portfolio-screenshot.png)
-**Tech:** 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge) 
-![React Router](https://img.shields.io/badge/ReactRouter-CA4245?style=for-the-badge)  
-**Description:** Modern portfolio showcasing web development, digital marketing, and design expertise. Includes smooth animations, dynamic routing, and fully responsive layouts.
-
----
-
-### 🏥 [StayHealthy – Medical Appointment Platform](https://stayhealthy-app.vercel.app/)
-![StayHealthy Screenshot](https://i.ibb.co/5vK9dC6/stayhealthy-screenshot.png)
-**Tech:** 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-**Description:** Connects patients with medical professionals for consultations and prescriptions.  
+### 🏥 [StayHealthy – Medical Appointment Platform](https://stayhealthy-app.vercel.app/)  
+**Tech:** React, Express, MongoDB, Vite  
+A medical appointment platform connecting patients with medical professionals for consultations, prescriptions, and more.  
 [GitHub](https://github.com/mostafahassan-dev/StayHealthy)
 
----
+### 🏨 [Hotel Booker](https://brisa-diaz-portfolio.vercel.app/project/hotel-booker?id=4)  
+**Tech:** Next.js, TailwindCSS, GraphQL  
+A flexible hotel booking platform with customizable profiles, guest data management, and admin dashboards.  
+[Project Link](https://brisa-diaz-portfolio.vercel.app/project/hotel-booker?id=4)
 
-### 🏨 [Hotel Booker](https://brisa-diaz-portfolio.vercel.app/project/hotel-booker?id=4)
-![Hotel Booker Screenshot](https://i.ibb.co/yQwZc2K/hotelbooker-screenshot.png)
-**Tech:** 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-**Description:** Flexible hotel booking platform with guest data management and admin dashboards.
+### 🛡️ [Insurance Management System](https://insurance-management.vercel.app/)  
+**Tech:** React, Node.js, MongoDB, TailwindCSS  
+A full-stack platform for managing insurance policies, claims, and customer data — featuring role-based access and dynamic dashboards.
 
----
+### ✈️ [Complete Travel & Tour Booking](https://travel-tourism-project.vercel.app/)  
+**Tech:** React, TailwindCSS  
+An all-in-one travel and tour booking platform with package listings, user authentication, and modern UI/UX.  
+[Project Link](https://travel-tourism-project.vercel.app/)
 
-### 🛡️ [Insurance Management System](https://insurance-management.vercel.app/)
-![Insurance Screenshot](https://i.ibb.co/0F1tG8R/insurance-screenshot.png)
-**Tech:** 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-**Description:** Full-stack system for managing insurance policies, claims, and customer data with role-based dashboards.
+### 🎓 [Student Portal](https://student-portal-final.vercel.app/)  
+**Tech:** React, TailwindCSS  
+A comprehensive student portal for managing academic progress, assignments, and communication with educators.  
+[Project Link](https://student-portal-final.vercel.app/)
 
----
-
-### ✈️ [Complete Travel & Tour Booking](https://travel-tourism-project.vercel.app/)
-![Travel Screenshot](https://i.ibb.co/Q8zLxZX/travel-screenshot.png)
-**Tech:** 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-**Description:** Travel booking platform offering tour packages, user authentication, and responsive design.
-
----
-
-### 🎓 [Student Portal](https://student-portal-final.vercel.app/)
-![Student Portal Screenshot](https://i.ibb.co/2k3vSZq/studentportal-screenshot.png)
-**Tech:** 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-**Description:** Portal for students to manage academic progress, assignments, and communication with teachers.
-
----
-
-### 📰 [News Aggregator](https://news-aggregator-website-eight.vercel.app/)
-![News Screenshot](https://i.ibb.co/k5b5R2q/news-screenshot.png)
-**Tech:** 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![News API](https://img.shields.io/badge/NewsAPI-FF0000?style=for-the-badge)  
-**Description:** Aggregates news from multiple sources with category filtering.  
+### 📰 [News Aggregator](https://news-aggregator-website-eight.vercel.app/)  
+**Tech:** React, News API  
+A dynamic news platform fetching articles from multiple sources with category filtering and responsive design.  
 [GitHub](https://github.com/bajwa61/News-Aggregator-Website)
 
----
+### 📊 [Digital Marketing Dashboard (Coming Soon)](#)  
+**Tech:** React, Chart.js, Firebase  
+A dashboard to track campaigns, analytics, and engagement across multiple digital marketing platforms.
 
-### 📊 [Digital Marketing Dashboard (Coming Soon)](#)
-![Dashboard Screenshot](https://i.ibb.co/w0V8VtQ/dashboard-screenshot.png)
-**Tech:** 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-**Description:** Dashboard for tracking campaigns, analytics, and engagement across digital marketing platforms.
-
-</div>
 
 
 
