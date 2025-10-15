@@ -24,15 +24,35 @@
 - **🔗 LinkedIn:** [linkedin.com/in/jahid-hasan-600262326](https://linkedin.com/in/jahid-hasan-600262326)  
 - **😄 Pronouns:** He / Him  
 
----
-
-## 💼 Skills
+## 💼 Skills  
 💻 **MERN Stack Developer & 🎯 Digital Marketer**  
 **Building & Promoting Modern Web Solutions**
 
-- 🔭 I’m currently working on improving this page  
-- 📫 Reach me anytime: **jahidhasan.en@gmail.com**  
-- 😄 Pronouns: **He/Him**
+---
+
+### 📈 Digital Marketing Skills
+- Meta Ads Manager (Facebook & Instagram Campaigns)
+- Google Ads (Search & Display)
+- Social Media Strategy & Content Planning
+- Brand Design & Visual Identity
+- SEO (On-page, Off-page, Technical)
+- Email Marketing (Mailchimp / Brevo)
+- Analytics & Conversion Tracking
+
+---
+
+### 🌱 Currently Learning
+- Next.js Advanced Features  
+- MongoDB Atlas & Cloud Functions  
+- API Security & JWT Authorization  
+
+---
+
+### 🔭 Currently Working On
+- 🚀 Expanding my bilingual e-commerce platform **NittoSodai**  
+- 🧩 Developing reusable React components for faster UI design  
+
+---
 
 ---
 
