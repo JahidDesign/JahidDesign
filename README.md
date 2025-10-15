@@ -10,8 +10,8 @@
 
 
 
-<h1 align="center">👋 Hi, I'm Jahid Hasan</h1>
-<p align="center">
+<h1 align="left">👋 Hi, I'm Jahid Hasan</h1>
+<p align="left">
 💻 MERN Stack Web Developer & 🎯 Digital Marketing Specialist | 🎨 Print Design<br>
 Building & Promoting Modern Web Solutions
 </p>
