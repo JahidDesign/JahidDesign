@@ -10,14 +10,28 @@
 
 
 
----
-<h1 align="center">Jahid Hasan — Full Stack Web Developer & Digital Marketing Specialist</h1>
+<h1 align="center">✨ Jahid Hasan — Full Stack Web Developer & Digital Marketing Specialist ✨</h1>
 <h3 align="center">🚀 MERN Stack | 📈 Digital Marketing | 🎨 Print Design</h3>
-### 📫 How to reach me:
-**📧 Email:** jahidhasan.en@gmail.com  
-**📧 Contact:** +880 1794491902
-**Live:** https://jahid-digital-space.vercel.app
-**😄 Pronouns:** He/Him  
+
+---
+
+### 📫 How to Reach Me
+
+<p align="center">
+  <a href="mailto:jahidhasan.en@gmail.com"><img src="https://img.shields.io/badge/Email-jahidhasan.en%40gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://jahid-digital-space.vercel.app"><img src="https://img.shields.io/badge/Portfolio-jahid--digital--space.vercel.app-success?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://linkedin.com/in/jahid-hasan-600262326"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+<p align="center">
+  📞 <strong>Contact:</strong> +880 1794-491902  
+  <br>
+  😄 <strong>Pronouns:</strong> He / Him  
+  <br>
+  🌍 <strong>Location:</strong> Sylhet, Bangladesh
+</p>
+
+---
 
 ---
 
