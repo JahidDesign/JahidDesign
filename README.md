@@ -10,15 +10,10 @@
 
 
 
-<h1 align="left">👋 Hi, I'm Jahid Hasan</h1>
-<p align="left">
-💻 MERN Stack Web Developer & 🎯 Digital Marketing Specialist | 🎨 Print Design<br>
-Building & Promoting Modern Web Solutions
-</p>
+# Jahid Hasan — Full Stack Web Developer & Digital Marketing Specialist
 
-<p align="center">
 🚀 MERN Stack | 📈 Digital Marketing | 🎨 Print Design
-</p>
+
 
 ---
 # 💫 About Me:
@@ -54,7 +49,6 @@ Every achievement of mine carries **her contribution** within it.
 - **🔗 LinkedIn:** [linkedin.com/in/jahid-hasan-600262326](https://linkedin.com/in/jahid-hasan-600262326)  
 - **😄 Pronouns:** He / Him  
 
----
 ---
 
 ## 🌐 Socials:
