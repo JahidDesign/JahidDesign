@@ -41,7 +41,7 @@
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 - Next.js Advanced Features  
 - MongoDB Atlas & Cloud Functions  
 - API Security & JWT Authorization  
@@ -52,7 +52,7 @@
 - 🚀 Expanding my bilingual e-commerce platform **NittoSodai**  
 - 🧩 Developing reusable React components for faster UI design  
 
----
+
 
 ---
 
