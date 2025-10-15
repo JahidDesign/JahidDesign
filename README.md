@@ -11,9 +11,12 @@
 
 
 ---
-
+<h1 align="center">Jahid Hasan — Full Stack Web Developer & Digital Marketing Specialist</h1>
+<h3 align="center">🚀 MERN Stack | 📈 Digital Marketing | 🎨 Print Design</h3>
 ### 📫 How to reach me:
 **📧 Email:** jahidhasan.en@gmail.com  
+**📧 Contact:** +880 1794491902
+**Live:** https://jahid-digital-space.vercel.app
 **😄 Pronouns:** He/Him  
 
 ---
@@ -42,17 +45,24 @@
 ---
 
 # 💫 About Me:
-I am a person with a disability — and this is not something to be ashamed of.  
-It’s a reality of my life, determined by Allah Himself. Allah knows best why He has placed me in this trial, and only He knows what my destiny holds.  
+I'm a **Full Stack Web Developer (MERN)** and **Digital Marketer** who builds modern, responsive, and high-converting web apps.  
+I enjoy turning ideas into production-ready products, designing clean UIs, and optimizing websites for conversions and SEO.
 
-After Allah, the greatest contribution in my life belongs to my beloved mother. Without her, I could never have come this far.  
-Whatever I have achieved, and however much I have struggled — behind it all are her sacrifices, her prayers, and her unconditional love.  
+---
+
+I am a person with a disability — and this is **not something to be ashamed of**.  
+It’s a reality of my life, determined by **Allah Himself**.  
+Allah knows best why He has placed me in this trial, and only He knows what my destiny holds. 🌙
+
+After Allah, the greatest contribution in my life belongs to my **beloved mother**.  
+Without her, I could never have come this far.  
+Whatever I have achieved, and however much I have struggled — behind it all are her **sacrifices, prayers, and unconditional love**. ❤️
 
 I am forever grateful to Allah for blessing me with such a mother.  
-No matter how many challenges come my way, I will continue to move forward with my mother’s prayers and Allah’s mercy.  
-Every achievement of mine carries her contribution within it.  
+No matter how many challenges come my way, I will continue to move forward with **my mother’s prayers and Allah’s mercy**.  
+Every achievement of mine carries **her contribution** within it.
 
-In shaa Allah, I will reach my goals if Allah grants me life, health, and strength. 🤲❤️  
+**In shaa Allah**, I will reach my goals if Allah grants me life, health, and strength. 🤲
 
 **– MERN Stack Developer & Digital Marketer**
 
