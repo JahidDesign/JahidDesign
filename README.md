@@ -38,7 +38,7 @@
 - SEO (On-page, Off-page, Technical)
 - Email Marketing (Mailchimp / Brevo)
 - Analytics & Conversion Tracking
-
+---
   ### 🎨 Print & Graphic Design
 - Logo Design & Brand Identity
 - Flyers, Posters & Brochures
@@ -47,13 +47,11 @@
 - Canva & Adobe Photoshop / Illustrator
 - Visual Storytelling & Layout Design
 
-
+---
 ###  Currently Learning
 - Next.js Advanced Features  
 - MongoDB Atlas & Cloud Functions  
 - API Security & JWT Authorization  
-
-
 ### 🔭 Currently Working On
 - 🚀 Expanding my bilingual e-commerce platform **NittoSodai**  
 - 🧩 Developing reusable React components for faster UI design  
