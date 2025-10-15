@@ -21,6 +21,29 @@ Building & Promoting Modern Web Solutions
 </p>
 
 ---
+# 💫 About Me:
+I'm a **Full Stack Web Developer (MERN)** and **Digital Marketer** who builds modern, responsive, and high-converting web apps.  
+I enjoy turning ideas into production-ready products, designing clean UIs, and optimizing websites for conversions and SEO.
+
+---
+
+I am a person with a disability — and this is **not something to be ashamed of**.  
+It’s a reality of my life, determined by **Allah Himself**.  
+Allah knows best why He has placed me in this trial, and only He knows what my destiny holds. 🌙
+
+After Allah, the greatest contribution in my life belongs to my **beloved mother**.  
+Without her, I could never have come this far.  
+Whatever I have achieved, and however much I have struggled — behind it all are her **sacrifices, prayers, and unconditional love**. ❤️
+
+I am forever grateful to Allah for blessing me with such a mother.  
+No matter how many challenges come my way, I will continue to move forward with **my mother’s prayers and Allah’s mercy**.  
+Every achievement of mine carries **her contribution** within it.
+
+**In shaa Allah**, I will reach my goals if Allah grants me life, health, and strength. 🤲
+
+**– MERN Stack Developer & Digital Marketer**
+
+---
 
 ### 📫 How to Reach Me
 
@@ -32,6 +55,19 @@ Building & Promoting Modern Web Solutions
 - **😄 Pronouns:** He / Him  
 
 ---
+---
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jahidhasan582)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jahidhasan2950)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/designer_world29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahid-hasan-600262326/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/desingingbyjahid29/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Some-Tradition2510/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JahidHasan84323)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/JahidDesign)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidhasan.en@gmail.com)
+
 
 ## 💼 Skills
 
@@ -75,45 +111,8 @@ Building & Promoting Modern Web Solutions
 - 🧩 Developing reusable React components for faster UI design  
 
 
-
 ---
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jahidhasan582)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jahidhasan2950)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/designer_world29)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahid-hasan-600262326/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/desingingbyjahid29/)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Some-Tradition2510/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JahidHasan84323)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/JahidDesign)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidhasan.en@gmail.com)
-
----
-
-# 💫 About Me:
-I'm a **Full Stack Web Developer (MERN)** and **Digital Marketer** who builds modern, responsive, and high-converting web apps.  
-I enjoy turning ideas into production-ready products, designing clean UIs, and optimizing websites for conversions and SEO.
-
----
-
-I am a person with a disability — and this is **not something to be ashamed of**.  
-It’s a reality of my life, determined by **Allah Himself**.  
-Allah knows best why He has placed me in this trial, and only He knows what my destiny holds. 🌙
-
-After Allah, the greatest contribution in my life belongs to my **beloved mother**.  
-Without her, I could never have come this far.  
-Whatever I have achieved, and however much I have struggled — behind it all are her **sacrifices, prayers, and unconditional love**. ❤️
-
-I am forever grateful to Allah for blessing me with such a mother.  
-No matter how many challenges come my way, I will continue to move forward with **my mother’s prayers and Allah’s mercy**.  
-Every achievement of mine carries **her contribution** within it.
-
-**In shaa Allah**, I will reach my goals if Allah grants me life, health, and strength. 🤲
-
-**– MERN Stack Developer & Digital Marketer**
-
----
 
 # 🚀 Featured Projects
 
