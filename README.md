@@ -49,8 +49,6 @@ Every achievement of mine carries **her contribution** within it.
 - **🔗 LinkedIn:** [linkedin.com/in/jahid-hasan-600262326](https://linkedin.com/in/jahid-hasan-600262326)  
 - **😄 Pronouns:** He / Him  
 
----
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jahidhasan582)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jahidhasan2950)
@@ -61,7 +59,7 @@ Every achievement of mine carries **her contribution** within it.
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JahidHasan84323)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/JahidDesign)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidhasan.en@gmail.com)
-
+---
 
 ## 💼 Skills
 
