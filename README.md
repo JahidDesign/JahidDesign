@@ -16,29 +16,52 @@
 
 
 ---
-# 💫 About Me:
-I'm a **Full Stack Web Developer (MERN)** and **Digital Marketer** who builds modern, responsive, and high-converting web apps.  
-I enjoy turning ideas into production-ready products, designing clean UIs, and optimizing websites for conversions and SEO.
+# 💫 About Me
+
+Hi, I'm **Jahid Hasan**, a **Digital Marketer & Full Stack Web Developer (MERN)** from Bangladesh.  
+I create modern, performance-focused websites and run marketing campaigns that turn visitors into customers.  
+I specialize in combining clean UI design, fast frontend development, and data-driven marketing strategies to help businesses grow online. My goal is to build solutions that are **not only visually appealing but also measurable in results**.  
 
 ---
 
-I am a person with a disability — and this is **not something to be ashamed of**.  
-It’s a reality of my life, determined by **Allah Himself**.  
-Allah knows best why He has placed me in this trial, and only He knows what my destiny holds. 🌙
+### 🌟 Personal Journey
+I am a person with a **disability**, and this is **not something to be ashamed of**.  
+It is a reality of my life, determined by **Allah Himself**. Allah knows best why He has placed me in this trial, and only He knows what my destiny holds. 🌙  
 
 After Allah, the greatest contribution in my life belongs to my **beloved mother**.  
 Without her, I could never have come this far.  
-Whatever I have achieved, and however much I have struggled — behind it all are her **sacrifices, prayers, and unconditional love**. ❤️
+Whatever I have achieved, and however much I have struggled — behind it all are her **sacrifices, prayers, and unconditional love**. ❤️  
 
 I am forever grateful to Allah for blessing me with such a mother.  
 No matter how many challenges come my way, I will continue to move forward with **my mother’s prayers and Allah’s mercy**.  
-Every achievement of mine carries **her contribution** within it.
+Every achievement of mine carries **her contribution** within it.  
 
-**In shaa Allah**, I will reach my goals if Allah grants me life, health, and strength. 🤲
-
-**– MERN Stack Developer & Digital Marketer**
+**In shaa Allah**, I will reach my goals if Allah grants me life, health, and strength. 🤲  
 
 ---
+
+### 💻 Professional Summary
+I’m a versatile professional specializing in **MERN stack web development**, **digital marketing**, and **print design**.  
+With **2 years of experience in digital marketing** and **3 years in print design**, I create engaging, high-performing websites, implement data-driven marketing strategies, and design visually compelling print materials.  
+
+By combining creativity with technical expertise, I deliver **impactful digital and offline experiences** that help brands grow and stand out.  
+
+---
+
+### 🛠 How I Work
+- **Plan & Strategize:** Understand business goals, target audiences, and project requirements to create effective solutions.  
+- **Design & Develop:** Build responsive websites, marketing campaigns, and print materials that are visually appealing and functional.  
+- **Optimize & Deliver:** Ensure SEO, performance, and user engagement, delivering measurable results and brand growth.  
+
+---
+
+### 🔧 My Expertise
+- **Web Development:** MERN stack (MongoDB, Express.js, React, Node.js), responsive UI/UX, RESTful APIs  
+- **Digital Marketing:** SEO, social media marketing, content strategy, analytics  
+- **Print Design:** Adobe Photoshop, Illustrator, Canva, branding, visual storytelling  
+
+---
+
 
 ### 📫 How to Reach Me
 
@@ -59,6 +82,8 @@ Every achievement of mine carries **her contribution** within it.
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JahidHasan84323)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/JahidDesign)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidhasan.en@gmail.com)
+
+
 ---
 
 ## 💼 Skills
