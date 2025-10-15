@@ -133,21 +133,102 @@ By combining creativity with technical expertise, I deliver **impactful digital 
 
 # 🚀 Featured Projects
 
+<div align="center">
+
+<!-- NittoSodai -->
 ### 🛒 [NittoSodai – Smart Grocery E-commerce](https://nittosodai.netlify.app/)
-**Tech:** React, Firebase Auth, MongoDB, TailwindCSS, SweetAlert2  
-A bilingual (English & Bangla) e-commerce platform built for smart grocery shopping — featuring Firebase authentication, image upload, Google login, and modern responsive UI.
+**Tech:** 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6F61?style=for-the-badge)  
+A bilingual (English & Bangla) e-commerce platform with Firebase authentication, image upload, Google login, and a modern responsive UI.
 
+---
+
+<!-- Personal Portfolio -->
 ### 💼 [My Personal Portfolio](https://jahid-digital-space.vercel.app/)
-**Tech:** React, Framer Motion, TailwindCSS, React Router  
-A modern portfolio showcasing my web development, digital marketing, and design expertise — fully responsive with smooth animations and dynamic routing.
+**Tech:** 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge) 
+![React Router](https://img.shields.io/badge/ReactRouter-CA4245?style=for-the-badge)  
+Modern portfolio showcasing web development, digital marketing, and design expertise — fully responsive with smooth animations.
 
-### 📰 [Blog Management System](https://github.com/JahidDesign/blog-management)
-**Tech:** MERN Stack, Express, MongoDB Atlas, JWT  
-A full-stack CRUD blog platform with user authentication, role-based access control, and dynamic article management.
+---
 
-### 📢 [Digital Marketing Dashboard (Coming Soon)](#)
-**Tech:** React, Chart.js, Firebase  
-A dashboard to track campaigns, analytics, and engagement across multiple digital marketing platforms.
+<!-- StayHealthy -->
+### 🏥 [StayHealthy – Medical Appointment Platform](https://stayhealthy-app.vercel.app/)
+**Tech:** 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+Connects patients with medical professionals for consultations and prescriptions.  
+[GitHub](https://github.com/mostafahassan-dev/StayHealthy)
+
+---
+
+<!-- Hotel Booker -->
+### 🏨 [Hotel Booker](https://brisa-diaz-portfolio.vercel.app/project/hotel-booker?id=4)
+**Tech:** 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+Flexible hotel booking platform with guest data management and admin dashboards.
+
+---
+
+<!-- Insurance Management -->
+### 🛡️ [Insurance Management System](https://insurance-management.vercel.app/)
+**Tech:** 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+Full-stack platform to manage insurance policies, claims, and customer data with role-based dashboards.
+
+---
+
+<!-- Travel & Tour Booking -->
+### ✈️ [Complete Travel & Tour Booking](https://travel-tourism-project.vercel.app/)
+**Tech:** 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+All-in-one travel booking platform with packages, authentication, and modern UI/UX.
+
+---
+
+<!-- Student Portal -->
+### 🎓 [Student Portal](https://student-portal-final.vercel.app/)
+**Tech:** 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+Portal for managing academics, assignments, and educator communication.
+
+---
+
+<!-- News Aggregator -->
+### 📰 [News Aggregator](https://news-aggregator-website-eight.vercel.app/)
+**Tech:** 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![News API](https://img.shields.io/badge/NewsAPI-FF0000?style=for-the-badge)  
+Dynamic news platform fetching articles from multiple sources.  
+[GitHub](https://github.com/bajwa61/News-Aggregator-Website)
+
+---
+
+<!-- Digital Marketing Dashboard -->
+### 📊 [Digital Marketing Dashboard (Coming Soon)](#)
+**Tech:** 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+Dashboard to track campaigns, analytics, and engagement across digital marketing platforms.
+
+</div>
+
 
 ---
 
