@@ -135,99 +135,100 @@ By combining creativity with technical expertise, I deliver **impactful digital 
 
 <div align="center">
 
-<!-- NittoSodai -->
 ### 🛒 [NittoSodai – Smart Grocery E-commerce](https://nittosodai.netlify.app/)
+![NittoSodai Screenshot](https://i.ibb.co/q5t7yFZ/nittosodai-screenshot.png)
 **Tech:** 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6F61?style=for-the-badge)  
-A bilingual (English & Bangla) e-commerce platform with Firebase authentication, image upload, Google login, and a modern responsive UI.
+**Description:** A bilingual e-commerce platform for groceries, featuring Firebase authentication, image uploads, Google login, and a modern responsive UI.
 
 ---
 
-<!-- Personal Portfolio -->
 ### 💼 [My Personal Portfolio](https://jahid-digital-space.vercel.app/)
+![Portfolio Screenshot](https://i.ibb.co/tHp7ZLx/portfolio-screenshot.png)
 **Tech:** 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge) 
 ![React Router](https://img.shields.io/badge/ReactRouter-CA4245?style=for-the-badge)  
-Modern portfolio showcasing web development, digital marketing, and design expertise — fully responsive with smooth animations.
+**Description:** Modern portfolio showcasing web development, digital marketing, and design expertise. Includes smooth animations, dynamic routing, and fully responsive layouts.
 
 ---
 
-<!-- StayHealthy -->
 ### 🏥 [StayHealthy – Medical Appointment Platform](https://stayhealthy-app.vercel.app/)
+![StayHealthy Screenshot](https://i.ibb.co/5vK9dC6/stayhealthy-screenshot.png)
 **Tech:** 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-Connects patients with medical professionals for consultations and prescriptions.  
+**Description:** Connects patients with medical professionals for consultations and prescriptions.  
 [GitHub](https://github.com/mostafahassan-dev/StayHealthy)
 
 ---
 
-<!-- Hotel Booker -->
 ### 🏨 [Hotel Booker](https://brisa-diaz-portfolio.vercel.app/project/hotel-booker?id=4)
+![Hotel Booker Screenshot](https://i.ibb.co/yQwZc2K/hotelbooker-screenshot.png)
 **Tech:** 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-Flexible hotel booking platform with guest data management and admin dashboards.
+**Description:** Flexible hotel booking platform with guest data management and admin dashboards.
 
 ---
 
-<!-- Insurance Management -->
 ### 🛡️ [Insurance Management System](https://insurance-management.vercel.app/)
+![Insurance Screenshot](https://i.ibb.co/0F1tG8R/insurance-screenshot.png)
 **Tech:** 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-Full-stack platform to manage insurance policies, claims, and customer data with role-based dashboards.
+**Description:** Full-stack system for managing insurance policies, claims, and customer data with role-based dashboards.
 
 ---
 
-<!-- Travel & Tour Booking -->
 ### ✈️ [Complete Travel & Tour Booking](https://travel-tourism-project.vercel.app/)
+![Travel Screenshot](https://i.ibb.co/Q8zLxZX/travel-screenshot.png)
 **Tech:** 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-All-in-one travel booking platform with packages, authentication, and modern UI/UX.
+**Description:** Travel booking platform offering tour packages, user authentication, and responsive design.
 
 ---
 
-<!-- Student Portal -->
 ### 🎓 [Student Portal](https://student-portal-final.vercel.app/)
+![Student Portal Screenshot](https://i.ibb.co/2k3vSZq/studentportal-screenshot.png)
 **Tech:** 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-Portal for managing academics, assignments, and educator communication.
+**Description:** Portal for students to manage academic progress, assignments, and communication with teachers.
 
 ---
 
-<!-- News Aggregator -->
 ### 📰 [News Aggregator](https://news-aggregator-website-eight.vercel.app/)
+![News Screenshot](https://i.ibb.co/k5b5R2q/news-screenshot.png)
 **Tech:** 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![News API](https://img.shields.io/badge/NewsAPI-FF0000?style=for-the-badge)  
-Dynamic news platform fetching articles from multiple sources.  
+**Description:** Aggregates news from multiple sources with category filtering.  
 [GitHub](https://github.com/bajwa61/News-Aggregator-Website)
 
 ---
 
-<!-- Digital Marketing Dashboard -->
 ### 📊 [Digital Marketing Dashboard (Coming Soon)](#)
+![Dashboard Screenshot](https://i.ibb.co/w0V8VtQ/dashboard-screenshot.png)
 **Tech:** 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-Dashboard to track campaigns, analytics, and engagement across digital marketing platforms.
+**Description:** Dashboard for tracking campaigns, analytics, and engagement across digital marketing platforms.
 
 </div>
+
 
 
 ---
