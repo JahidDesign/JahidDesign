@@ -144,7 +144,6 @@ A modern portfolio showcasing web development, digital marketing, and design exp
 ### 🏥 [StayHealthy – Medical Appointment Platform](https://stayhealthy-app.vercel.app/)  
 **Tech:** React, Express, MongoDB, Vite  
 A medical appointment platform connecting patients with medical professionals for consultations, prescriptions, and more.  
-[GitHub](https://github.com/mostafahassan-dev/StayHealthy)
 
 ### 🏨 [Hotel Booker](https://brisa-diaz-portfolio.vercel.app/project/hotel-booker?id=4)  
 **Tech:** Next.js, TailwindCSS, GraphQL  
@@ -168,7 +167,7 @@ A comprehensive student portal for managing academic progress, assignments, and 
 ### 📰 [News Aggregator](https://news-aggregator-website-eight.vercel.app/)  
 **Tech:** React, News API  
 A dynamic news platform fetching articles from multiple sources with category filtering and responsive design.  
-[GitHub](https://github.com/bajwa61/News-Aggregator-Website)
+
 
 ### 📊 [Digital Marketing Dashboard (Coming Soon)](#)  
 **Tech:** React, Chart.js, Firebase  
