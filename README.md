@@ -10,8 +10,15 @@
 
 
 
-# Jahid Hasan — Full Stack Web Developer & Digital Marketing Specialist  
-🚀 MERN Stack | 📈 Digital Marketing | 🎨 Print Design  
+<h1 align="center">👋 Hi, I'm Jahid Hasan</h1>
+<p align="center">
+💻 MERN Stack Web Developer & 🎯 Digital Marketing Specialist | 🎨 Print Design<br>
+Building & Promoting Modern Web Solutions
+</p>
+
+<p align="center">
+🚀 MERN Stack | 📈 Digital Marketing | 🎨 Print Design
+</p>
 
 ---
 
@@ -24,28 +31,39 @@
 - **🔗 LinkedIn:** [linkedin.com/in/jahid-hasan-600262326](https://linkedin.com/in/jahid-hasan-600262326)  
 - **😄 Pronouns:** He / Him  
 
-## 💼 Skills  
-💻 **MERN Stack Developer & 🎯 Digital Marketer**  
-**Building & Promoting Modern Web Solutions**
-
 ---
 
-### 📈 Digital Marketing Skills
-- Meta Ads Manager (Facebook & Instagram Campaigns)
-- Google Ads (Search & Display)
-- Social Media Strategy & Content Planning
-- Brand Design & Visual Identity
-- SEO (On-page, Off-page, Technical)
-- Email Marketing (Mailchimp / Brevo)
-- Analytics & Conversion Tracking
----
-  ### 🎨 Print & Graphic Design
-- Logo Design & Brand Identity
-- Flyers, Posters & Brochures
-- Social Media Graphics & Templates
-- Brand Design & Visual Identity
-- Canva & Adobe Photoshop / Illustrator
-- Visual Storytelling & Layout Design
+## 💼 Skills
+
+### 💻 MERN Stack Web Development
+- **HTML5, CSS3 & JavaScript** – Build responsive, interactive, semantic front-end interfaces.  
+- **React & Vue.js** – Dynamic SPAs with reusable components.  
+- **Next.js** – Server-side rendering, routing, optimized performance.  
+- **Node.js & Express.js** – Backend servers & RESTful APIs.  
+- **MongoDB & Firebase** – Databases, cloud storage, real-time data, authentication.  
+- **API Integration & JWT Auth** – Secure full-stack applications.  
+- **TailwindCSS & Bootstrap** – Clean, responsive UI.  
+- **Version Control & Deployment** – Git, GitHub, Vercel, Netlify.  
+- **Performance Optimization** – Lazy loading, caching, minimizing bundle size.  
+- **Testing & Debugging** – Unit & integration testing, debugging tools.  
+- **Modern Tooling** – Webpack, Babel, ESLint, Prettier.  
+- **Responsive & Mobile-First Design** – Seamless across all devices.
+
+### 📈 Digital Marketing
+- **Meta Ads Manager (Facebook & Instagram)** – Plan & run campaigns.  
+- **Google Ads (Search & Display)** – Drive traffic & conversions.  
+- **Social Media Strategy & Content Planning** – Engaging campaigns aligned with brand goals.  
+- **Brand Design & Visual Identity** – Consistent branding.  
+- **SEO (On-page, Off-page, Technical)** – Improve search rankings.  
+- **Email Marketing (Mailchimp / Brevo)** – Design & analyze campaigns.  
+- **Analytics & Conversion Tracking** – Monitor KPIs, optimize ROI.
+
+### 🎨 Print & Graphic Design
+- **Logo Design & Brand Identity** – Memorable logos & visual systems.  
+- **Flyers, Posters & Brochures** – Professional marketing materials.  
+- **Social Media Graphics & Templates** – Eye-catching visuals.  
+- **Canva & Adobe Photoshop / Illustrator** – Efficiently use industry-standard tools.  
+- **Visual Storytelling & Layout Design** – Combine visuals & text for impact.
 
 ---
 ###  Currently Learning
