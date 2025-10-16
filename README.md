@@ -141,7 +141,7 @@ A bilingual (English & Bangla) e-commerce platform for smart grocery shopping �
 **Tech:** React, Framer Motion, TailwindCSS, React Router  
 A modern portfolio showcasing web development, digital marketing, and design expertise — fully responsive with smooth animations and dynamic routing.
 
-### 🏥 [StayHealthy – Medical Appointment Platform](https://stayhealthy-app.vercel.app/)  
+### 🏥 [StayHealthy – Medical Appointment Platform](https://ubiquitous-cendol-f6b676.netlify.app/) 
 **Tech:** React, Express, MongoDB, Vite  
 A medical appointment platform connecting patients with medical professionals for consultations, prescriptions, and more.  
 
@@ -150,16 +150,16 @@ A medical appointment platform connecting patients with medical professionals fo
 A flexible hotel booking platform with customizable profiles, guest data management, and admin dashboards.  
 [Project Link](https://brisa-diaz-portfolio.vercel.app/project/hotel-booker?id=4)
 
-### 🛡️ [Insurance Management System](https://insurance-management.vercel.app/)  
+### 🛡️ [Insurance Management System]([https://insurance-management.vercel.app/](https://lifespring-insurances.vercel.app/))  
 **Tech:** React, Node.js, MongoDB, TailwindCSS  
 A full-stack platform for managing insurance policies, claims, and customer data — featuring role-based access and dynamic dashboards.
 
-### ✈️ [Complete Travel & Tour Booking](https://travel-tourism-project.vercel.app/)  
+### ✈️ [Complete Travel & Tour Booking](https://travles-eta.vercel.app/))  
 **Tech:** React, TailwindCSS  
 An all-in-one travel and tour booking platform with package listings, user authentication, and modern UI/UX.  
-[Project Link](https://travel-tourism-project.vercel.app/)
 
-### 🎓 [Student Portal](https://student-portal-final.vercel.app/)  
+
+### 🎓 [Student Portal](https://candid-pie-e43778.netlify.app/)  
 **Tech:** React, TailwindCSS  
 A comprehensive student portal for managing academic progress, assignments, and communication with educators.  
 [Project Link](https://student-portal-final.vercel.app/)
@@ -169,7 +169,7 @@ A comprehensive student portal for managing academic progress, assignments, and 
 A dynamic news platform fetching articles from multiple sources with category filtering and responsive design.  
 
 
-### 📊 [Digital Marketing Dashboard (Coming Soon)](#)  
+### 📊 [Digital Marketing Dashboard (Coming Soon)](https://eventora-us.netlify.app/)  
 **Tech:** React, Chart.js, Firebase  
 A dashboard to track campaigns, analytics, and engagement across multiple digital marketing platforms.
 
