@@ -162,7 +162,7 @@ An all-in-one travel and tour booking platform with package listings, user authe
 ### 🎓 [Student Portal](https://candid-pie-e43778.netlify.app/)  
 **Tech:** React, TailwindCSS  
 A comprehensive student portal for managing academic progress, assignments, and communication with educators.  
-[Project Link](https://student-portal-final.vercel.app/)
+[Project Link](https://candid-pie-e43778.netlify.app/)
 
 ### 📰 [News Aggregator](https://news-aggregator-website-eight.vercel.app/)  
 **Tech:** React, News API  
