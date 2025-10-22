@@ -14,6 +14,28 @@
 
 🚀 MERN Stack | 📈 Digital Marketing | 🎨 Print Design
 
+---
+
+
+### 📫 How to Reach Me
+
+- **📧 Email:** [jahidhasan.en@gmail.com](mailto:jahidhasan.en@gmail.com)  
+- **📞 Contact:** +880 1794-491902  
+- **🌍 Location:** Sylhet, Bangladesh  
+- **💻 Portfolio:** [jahid-digital-space.vercel.app](https://jahid-digital-space.vercel.app)  
+- **🔗 LinkedIn:** [linkedin.com/in/jahid-hasan-600262326](https://linkedin.com/in/jahid-hasan-600262326)  
+- **😄 Pronouns:** He / Him  
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jahidhasan582)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jahidhasan2950)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/designer_world29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahid-hasan-600262326/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/desingingbyjahid29/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Some-Tradition2510/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JahidHasan84323)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/JahidDesign)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidhasan.en@gmail.com)
 
 ---
 # 💫 About Me
@@ -59,29 +81,6 @@ By combining creativity with technical expertise, I deliver **impactful digital 
 - **Web Development:** MERN stack (MongoDB, Express.js, React, Node.js), responsive UI/UX, RESTful APIs  
 - **Digital Marketing:** SEO, social media marketing, content strategy, analytics  
 - **Print Design:** Adobe Photoshop, Illustrator, Canva, branding, visual storytelling  
-
----
-
-
-### 📫 How to Reach Me
-
-- **📧 Email:** [jahidhasan.en@gmail.com](mailto:jahidhasan.en@gmail.com)  
-- **📞 Contact:** +880 1794-491902  
-- **🌍 Location:** Sylhet, Bangladesh  
-- **💻 Portfolio:** [jahid-digital-space.vercel.app](https://jahid-digital-space.vercel.app)  
-- **🔗 LinkedIn:** [linkedin.com/in/jahid-hasan-600262326](https://linkedin.com/in/jahid-hasan-600262326)  
-- **😄 Pronouns:** He / Him  
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jahidhasan582)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jahidhasan2950)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/designer_world29)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahid-hasan-600262326/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/desingingbyjahid29/)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Some-Tradition2510/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JahidHasan84323)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/JahidDesign)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahidhasan.en@gmail.com)
 
 
 ---
