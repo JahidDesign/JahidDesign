@@ -1,6 +1,6 @@
 <!-- 🖼️ Profile Banner -->
 <p align="center">
- <img src="https://i.ibb.co.com/3YCy6tHM/White-and-Navy-Modern-Business-Consultant-Linked-In-Article-Cover-Image-20251008-025930-0000.png" alt="jahid">
+ <img src="https://i.ibb.co.com/xtCWWzJT/Green-and-Yellow-Gardening-You-Tube-Channel-Art-20251022-235601-0000.png" alt="jahid">
 </p>
 
 
@@ -134,12 +134,12 @@ By combining creativity with technical expertise, I deliver **impactful digital 
 
 | Repository | Description | Tech Stack | Link |
 |-------------|--------------|-------------|------|
-| 🛒 **NittoSodai** | Smart Grocery E-commerce Platform (bilingual with Firebase Auth & MongoDB) | React, Firebase, MongoDB, TailwindCSS | [🔗 View Repo](https://github.com/JahidDesign/NittoSodai) |
-| 💼 **Portfolio Website** | Modern animated portfolio with React & Framer Motion | React, Framer Motion, TailwindCSS | [🔗 View Repo](https://github.com/JahidDesign/Portfolio) |
-| 🏥 **StayHealthy** | Medical appointment platform with patient-doctor management | React, Node.js, MongoDB, Vite | [🔗 View Repo](https://github.com/JahidDesign/StayHealthy) |
-| 📰 **News Aggregator** | Real-time news fetching & category filtering | React, News API | [🔗 View Repo](https://github.com/JahidDesign/News-Aggregator) |
-| 📊 **Digital Marketing Dashboard** | Marketing analytics tracking & visualization | React, Chart.js, Firebase | [🔗 View Repo](https://github.com/JahidDesign/Digital-Marketing-Dashboard) |
-| ✈️ **Travel & Tour Booking** | Travel package booking & user authentication | React, TailwindCSS | [🔗 View Repo](https://github.com/JahidDesign/Travel-Booking) |
+| 🛒 **ShopNest** | Smart Grocery E-commerce Platform (bilingual with Firebase Auth & MongoDB) | React, Firebase, MongoDB, TailwindCSS | [🔗 View Repo](https://github.com/JahidDesign/shopnest) |
+| 💼 **Portfolio Website** | Modern animated portfolio with React & Framer Motion | React, Framer Motion, TailwindCSS | [🔗 View Repo](https://github.com/JahidDesign/jahid-sc) |
+| 🏥 **StayHealthy** | Medical appointment platform with patient-doctor management | React, Node.js, MongoDB, Vite | [🔗 View Repo](https://github.com/JahidDesign/Phudu) |
+| 🛡️ **Insurance** | Real-time news fetching & category filtering | React, News API | [🔗 View Repo](https://github.com/JahidDesign/InsuranceClient) |
+| 📊 **Digital Marketing Dashboard** | Marketing analytics tracking & visualization | React, Chart.js, Firebase | [🔗 View Repo](https://github.com/JahidDesign/eventora.e) |
+| ✈️ **Travel & Tour Booking** | Travel package booking & user authentication | React, TailwindCSS | [🔗 View Repo](https://github.com/JahidDesign/travlesProject) |
 
 ---
 
