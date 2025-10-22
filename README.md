@@ -130,6 +130,24 @@ By combining creativity with technical expertise, I deliver **impactful digital 
 
 ---
 
+# 📂 Featured Repositories
+
+| Repository | Description | Tech Stack | Link |
+|-------------|--------------|-------------|------|
+| 🛒 **NittoSodai** | Smart Grocery E-commerce Platform (bilingual with Firebase Auth & MongoDB) | React, Firebase, MongoDB, TailwindCSS | [🔗 View Repo](https://github.com/JahidDesign/NittoSodai) |
+| 💼 **Portfolio Website** | Modern animated portfolio with React & Framer Motion | React, Framer Motion, TailwindCSS | [🔗 View Repo](https://github.com/JahidDesign/Portfolio) |
+| 🏥 **StayHealthy** | Medical appointment platform with patient-doctor management | React, Node.js, MongoDB, Vite | [🔗 View Repo](https://github.com/JahidDesign/StayHealthy) |
+| 📰 **News Aggregator** | Real-time news fetching & category filtering | React, News API | [🔗 View Repo](https://github.com/JahidDesign/News-Aggregator) |
+| 📊 **Digital Marketing Dashboard** | Marketing analytics tracking & visualization | React, Chart.js, Firebase | [🔗 View Repo](https://github.com/JahidDesign/Digital-Marketing-Dashboard) |
+| ✈️ **Travel & Tour Booking** | Travel package booking & user authentication | React, TailwindCSS | [🔗 View Repo](https://github.com/JahidDesign/Travel-Booking) |
+
+---
+
+# 💻 Tech Stack
+*(badges remain unchanged)*
+
+---
+
 
 # 🚀 Featured Projects
 
