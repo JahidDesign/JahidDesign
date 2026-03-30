@@ -1,7 +1,8 @@
 <!-- 🖼️ Profile Banner -->
 <p align="center">
- <img src="https://i.ibb.co.com/xtCWWzJT/Green-and-Yellow-Gardening-You-Tube-Channel-Art-20251022-235601-0000.png" alt="jahid">
+ <img src="https://res.cloudinary.com/dgdlyrgda/image/upload/v1774905315/jahidhasan..en_z009xz.png" alt="Jahid Hasan Banner">
 </p>
+
 
 
 
@@ -12,18 +13,21 @@
 
 # Jahid Hasan — Full Stack Web Developer & Digital Marketing Specialist
 
-🚀 MERN Stack | 📈 Digital Marketing | 🎨 Print Design
+🚀 MERN Stack | ⚡ Next.js | 📈 Digital Marketing | 🐳 Docker
 
 ---
 
-
+## 💼 Open to Opportunities
+- 🌍 Remote / Freelance / Contract Work  
+- 💻 Frontend & Full-Stack Roles
+- ---
 ### 📫 How to Reach Me
 
-- **📧 Email:** [jahidhasan.en@gmail.com](mailto:jahidhasan.en@gmail.com)  
-- **📞 Contact:** +880 1794-491902  
+- **📧 Email:** jahidhasan.en@gmail.com  
 - **🌍 Location:** Sylhet, Bangladesh  
-- **💻 Portfolio:** [jahid-digital-space.vercel.app](https://jahid-digital-space.vercel.app)  
-- **🔗 LinkedIn:** [linkedin.com/in/jahid-hasan-600262326](https://linkedin.com/in/jahid-hasan-600262326)  
+- **💻 Portfolio:** https://mern-stack-jahid.vercel.app
+- **🔗 LinkedIn:** https://www.linkedin.com/in/jahidhasan-webdeveloper  
+---
 - **😄 Pronouns:** He / Him  
 
 ## 🌐 Socials:
@@ -69,7 +73,26 @@ With **2 years of experience in digital marketing** and **3 years in print desig
 By combining creativity with technical expertise, I deliver **impactful digital and offline experiences** that help brands grow and stand out.  
 
 ---
+## 🚀 Tech Highlights
 
+- ⚡ Built scalable apps using MERN & Next.js  
+- 🔐 Secure authentication (JWT, Firebase, OAuth, Passport.js)  
+- 💳 Payment systems (Stripe, SSLCommerz)  
+- 💬 Real-time features (Socket.io)  
+- 🐳 Docker containerization  
+- ☁️ Deployment: Vercel, Netlify, Render  
+- 📈 SEO & performance optimization  
+
+---
+## 💡 What I Bring
+
+- Strong problem-solving mindset  
+- Clean, maintainable code practices  
+- Startup-style fast execution  
+- Focus on UI/UX & performance  
+- Passion for accessible & inclusive web  
+
+---
 ### 🛠 How I Work
 - **Plan & Strategize:** Understand business goals, target audiences, and project requirements to create effective solutions.  
 - **Design & Develop:** Build responsive websites, marketing campaigns, and print materials that are visually appealing and functional.  
@@ -110,12 +133,50 @@ By combining creativity with technical expertise, I deliver **impactful digital 
 - **Email Marketing (Mailchimp / Brevo)** – Design & analyze campaigns.  
 - **Analytics & Conversion Tracking** – Monitor KPIs, optimize ROI.
 
-### 🎨 Print & Graphic Design
-- **Logo Design & Brand Identity** – Memorable logos & visual systems.  
-- **Flyers, Posters & Brochures** – Professional marketing materials.  
-- **Social Media Graphics & Templates** – Eye-catching visuals.  
-- **Canva & Adobe Photoshop / Illustrator** – Efficiently use industry-standard tools.  
-- **Visual Storytelling & Layout Design** – Combine visuals & text for impact.
+## 🛠 Skills
+
+### 💻 Frontend
+React.js, Next.js (SSR/SSG), TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Framer Motion, Responsive Design  
+
+### ⚙️ Backend
+Node.js, Express.js, REST APIs, Prisma ORM  
+
+### 🗄 Database
+MongoDB, MongoDB Atlas, MySQL, NeonDB (PostgreSQL)  
+
+### 🔐 Authentication & Payments
+Firebase Auth, JWT, Passport.js, Better Auth, Stripe, SSLCommerz  
+
+### 🔄 Real-Time & Advanced
+Socket.io, Go (Basic), AI Integration (Basic)  
+
+### 🐳 DevOps & Deployment
+Docker, Vercel, Netlify, Render  
+
+### 🧰 Tools
+Git, GitHub, Postman, Firebase  
+
+### 📈 Other
+SEO, Performance Optimization, UI/UX  
+
+---
+
+## 🧪 Real-World Features Built
+
+- 🔐 Authentication systems  
+- 💬 Real-time chat systems  
+- 📊 Admin dashboards  
+- 💳 Payment integrations  
+- 🌐 SEO-optimized applications  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Next.js  
+- System Design  
+- AI Integration  
+- Go Backend Development  
 
 ---
 ###  Currently Learning
